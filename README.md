@@ -10,3 +10,9 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+          <h1 className='display-1'>Bar Till Simulator</h1>
+          <h2 className='display-4'>Welcome to the Bar Till Simulator</h2>
+          <p className='lead'>This is a simple simulator to help you practice using a bar till.</p>
+          <p className='lead'>Click the buttons below to simulate pressing buttons on a bar till.</p>
+          <p className='lead'>You can use the buttons to add items to your order, remove items, and complete the order.</p>
+          <p className='lead'>Have fun!</p>
