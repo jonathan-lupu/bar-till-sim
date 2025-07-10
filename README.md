@@ -1,18 +1,12 @@
-# React + Vite
+# Bar Till Simulator
+This is a simple simulator to help you practice using a bar till.
+You can use the buttons to add items to your order, remove items, and complete the order.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Set Up
+- Clone this repository
+- cd your way into the files
+- run `npm run dev`
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-          <h1 className='display-1'>Bar Till Simulator</h1>
-          <h2 className='display-4'>Welcome to the Bar Till Simulator</h2>
-          <p className='lead'>This is a simple simulator to help you practice using a bar till.</p>
-          <p className='lead'>Click the buttons below to simulate pressing buttons on a bar till.</p>
-          <p className='lead'>You can use the buttons to add items to your order, remove items, and complete the order.</p>
-          <p className='lead'>Have fun!</p>
+# Extra
+This project is work in progress and currently has no functionality. <br>
+My reasoning behind this project is to provide new staff members a way to learn how to use the till system. Additonally, I am using this opportunity to learn how to use React.js
