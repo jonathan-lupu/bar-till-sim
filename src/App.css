@@ -7,11 +7,11 @@
 
 .app-grid {
   display: grid;
-  grid-template-columns: 25% 1fr; /* left column + right fill */
+  grid-template-columns: 15% 70% 15%; /* left column + right fill */
   grid-template-rows: auto 1fr;     /* top order + rest */
   grid-template-areas:
-    "order-display order-display"
-    "basket button-grid";
+    "order-display order-display order-display"
+    "basket  button-grid function-buttons";
   height: 100vh;
   gap: 10px;
   padding: 10px;
