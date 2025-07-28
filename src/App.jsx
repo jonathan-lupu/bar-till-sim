@@ -15,6 +15,10 @@ function App() {
           <h1>Order Display</h1>
         </div>
 
+        <div className="basket">
+          <h1> Basket </h1>
+        </div>
+
         <div className="button-grid">
           <div className="row">
             <div className='col-2'>
@@ -38,7 +42,7 @@ function App() {
           </div>
         </div>
 
-        <div className="basket">
+        <div className="function-buttons">
           <h1> Basket </h1>
         </div>
       </div>
